@@ -1,1 +1,1698 @@
-"[\n    {\n        \"id\": 1,\n        \"region\": \"FES-MEKNES\",\n        \"villes\": [\n            {\n                \"id\": 1,\n                \"ville\": \"ADREJ\"\n            },\n            {\n                \"id\": 2,\n                \"ville\": \"AGOURAI\"\n            },\n            {\n                \"id\": 3,\n                \"ville\": \"AIN AICHA\"\n            },\n            {\n                \"id\": 4,\n                \"ville\": \"AIN CHEGGAG\"\n            },\n            {\n                \"id\": 5,\n                \"ville\": \"AIN LEUH\"\n            },\n            {\n                \"id\": 6,\n                \"ville\": \"AIN MEDIOUNA\"\n            },\n            {\n                \"id\": 7,\n                \"ville\": \"AIN TAOUJDATE\"\n            },\n            {\n                \"id\": 8,\n                \"ville\": \"AKNOUL\"\n            },\n            {\n                \"id\": 9,\n                \"ville\": \"AZROU\"\n            },\n            {\n                \"id\": 10,\n                \"ville\": \"BAB EL MROUJ\"\n            },\n            {\n                \"id\": 11,\n                \"ville\": \"BAB MARZOUKA\"\n            },\n            {\n                \"id\": 12,\n                \"ville\": \"BHALIL\"\n            },\n            {\n                \"id\": 13,\n                \"ville\": \"BNI FRASSEN\"\n            },\n            {\n                \"id\": 14,\n                \"ville\": \"BNI LENT\"\n            },\n            {\n                \"id\": 15,\n                \"ville\": \"BNI OULID\"\n            },\n            {\n                \"id\": 16,\n                \"ville\": \"BOUAROUSS\"\n            },\n            {\n                \"id\": 17,\n                \"ville\": \"BOUFAKRANE\"\n            },\n            {\n                \"id\": 18,\n                \"ville\": \"BOUHOUDA\"\n            },\n            {\n                \"id\": 19,\n                \"ville\": \"BOULEMANE\"\n            },\n            {\n                \"id\": 20,\n                \"ville\": \"BOURD\"\n            },\n            {\n                \"id\": 21,\n                \"ville\": \"BOUZEMLANE\"\n            },\n            {\n                \"id\": 22,\n                \"ville\": \"EL HAJEB\"\n            },\n            {\n                \"id\": 23,\n                \"ville\": \"FES\"\n            },\n            {\n                \"id\": 24,\n                \"ville\": \"GHAFSAI\"\n            },\n            {\n                \"id\": 25,\n                \"ville\": \"IFRANE\"\n            },\n            {\n                \"id\": 26,\n                \"ville\": \"IMOUZZER KANDAR\"\n            },\n            {\n                \"id\": 27,\n                \"ville\": \"IMOUZZER MARMOUCHA\"\n            },\n            {\n                \"id\": 28,\n                \"ville\": \"KAF EL GHAR\"\n            },\n            {\n                \"id\": 29,\n                \"ville\": \"KARIA BA MOHAMED\"\n            },\n            {\n                \"id\": 30,\n                \"ville\": \"KSABI MOULOUYA\"\n            },\n            {\n                \"id\": 31,\n                \"ville\": \"MAGHRAOUA\"\n            },\n            {\n                \"id\": 32,\n                \"ville\": \"MEKNES\"\n            },\n            {\n                \"id\": 33,\n                \"ville\": \"M'HAYA\"\n            },\n            {\n                \"id\": 34,\n                \"ville\": \"MISSOUR\"\n            },\n            {\n                \"id\": 35,\n                \"ville\": \"MOULAY YACOUB\"\n            },\n            {\n                \"id\": 36,\n                \"ville\": \"OUARTZAGH\"\n            },\n            {\n                \"id\": 37,\n                \"ville\": \"OUED AMLIL\"\n            },\n            {\n                \"id\": 38,\n                \"ville\": \"OULAD ALI YOUSSEF\"\n            },\n            {\n                \"id\": 39,\n                \"ville\": \"OUTAT EL HAJ\"\n            },\n            {\n                \"id\": 40,\n                \"ville\": \"RAS TABOUDA\"\n            },\n            {\n                \"id\": 41,\n                \"ville\": \"SABAA AIYOUN\"\n            },\n            {\n                \"id\": 42,\n                \"ville\": \"SEFROU\"\n            },\n            {\n                \"id\": 43,\n                \"ville\": \"SIDI HARAZEM\"\n            },\n            {\n                \"id\": 44,\n                \"ville\": \"TAFRANT\"\n            },\n            {\n                \"id\": 45,\n                \"ville\": \"TAHLA\"\n            },\n            {\n                \"id\": 46,\n                \"ville\": \"TAINASTE\"\n            },\n            {\n                \"id\": 47,\n                \"ville\": \"TAOUNATE\"\n            },\n            {\n                \"id\": 48,\n                \"ville\": \"TAZA\"\n            },\n            {\n                \"id\": 49,\n                \"ville\": \"TAZARINE\"\n            },\n            {\n                \"id\": 50,\n                \"ville\": \"THAR ES-SOUK\"\n            },\n            {\n                \"id\": 51,\n                \"ville\": \"TIMAHDITE\"\n            },\n            {\n                \"id\": 52,\n                \"ville\": \"TISSA\"\n            },\n            {\n                \"id\": 53,\n                \"ville\": \"TIZI OUASLI\"\n            },\n            {\n                \"id\": 54,\n                \"ville\": \"ZRARDA\"\n            },\n            {\n                \"id\": 55,\n                \"ville\": \"BENI YAZRHA\"\n            },\n            {\n                \"id\": 56,\n                \"ville\": \"MOULAY DRISS ZERHOUN\"\n            },\n            {\n                \"id\": 57,\n                \"ville\": \"RIBATE EL KHEIR\"\n            }\n        ]\n    },\n    {\n        \"id\": 2,\n        \"region\": \"BENI MELLAL-KHENIFRA\",\n        \"villes\": [\n            {\n                \"id\": 1,\n                \"ville\": \"AFOURAR\"\n            },\n            {\n                \"id\": 2,\n                \"ville\": \"AGHBALA\"\n            },\n            {\n                \"id\": 3,\n                \"ville\": \"AGUELMOUS\"\n            },\n            {\n                \"id\": 4,\n                \"ville\": \"AIT AATAB ( CERCLE DE BZOU )\"\n            },\n            {\n                \"id\": 5,\n                \"ville\": \"AIT ISHAQ\"\n            },\n            {\n                \"id\": 6,\n                \"ville\": \"AIT M'HAMED\"\n            },\n            {\n                \"id\": 7,\n                \"ville\": \"AZILAL\"\n            },\n            {\n                \"id\": 8,\n                \"ville\": \"BEJAAD\"\n            },\n            {\n                \"id\": 9,\n                \"ville\": \"BENI MELLAL\"\n            },\n            {\n                \"id\": 10,\n                \"ville\": \"BNI OUKIL\"\n            },\n            {\n                \"id\": 11,\n                \"ville\": \"BOUJNIBA\"\n            },\n            {\n                \"id\": 12,\n                \"ville\": \"BRADIA\"\n            },\n            {\n                \"id\": 13,\n                \"ville\": \"BZOU\"\n            },\n            {\n                \"id\": 14,\n                \"ville\": \"CHOUGRANE\"\n            },\n            {\n                \"id\": 15,\n                \"ville\": \"DAR OULD ZIDOUH\"\n            },\n            {\n                \"id\": 16,\n                \"ville\": \"DEMNATE\"\n            },\n            {\n                \"id\": 17,\n                \"ville\": \"EL KBAB\"\n            },\n            {\n                \"id\": 18,\n                \"ville\": \"EL KSIBA\"\n            },\n            {\n                \"id\": 19,\n                \"ville\": \"FQUIH BEN SALAH\"\n            },\n            {\n                \"id\": 20,\n                \"ville\": \"KAHF NSSAR\"\n            },\n            {\n                \"id\": 21,\n                \"ville\": \"KASBA TADLA\"\n            },\n            {\n                \"id\": 22,\n                \"ville\": \"KERROUCHEN\"\n            },\n            {\n                \"id\": 23,\n                \"ville\": \"KHENIFRA\"\n            },\n            {\n                \"id\": 24,\n                \"ville\": \"KHOURIBGA\"\n            },\n            {\n                \"id\": 25,\n                \"ville\": \"MOULAY BOUAZZA\"\n            },\n            {\n                \"id\": 26,\n                \"ville\": \"M'RIRT\"\n            },\n            {\n                \"id\": 27,\n                \"ville\": \"OUAOUIZEGHT\"\n            },\n            {\n                \"id\": 28,\n                \"ville\": \"OUED ZEM\"\n            },\n            {\n                \"id\": 29,\n                \"ville\": \"OULED AYAD\"\n            },\n            {\n                \"id\": 30,\n                \"ville\": \"OULED M'BAREK\"\n            },\n            {\n                \"id\": 31,\n                \"ville\": \"OULED YAICH\"\n            },\n            {\n                \"id\": 32,\n                \"ville\": \"SOUK SEBT OULED NEMMA\"\n            },\n            {\n                \"id\": 33,\n                \"ville\": \"TABANT\"\n            },\n            {\n                \"id\": 34,\n                \"ville\": \"TAGHZIRT\"\n            },\n            {\n                \"id\": 35,\n                \"ville\": \"TAGLEFT\"\n            },\n            {\n                \"id\": 36,\n                \"ville\": \"TANANT\"\n            },\n            {\n                \"id\": 37,\n                \"ville\": \"ZAOUIAT AHANSAL\"\n            },\n            {\n                \"id\": 38,\n                \"ville\": \"ZAOUIAT CHEIKH\"\n            },\n            {\n                \"id\": 39,\n                \"ville\": \"HATTANE\"\n            },\n            {\n                \"id\": 40,\n                \"ville\": \"OULED ZMAM\"\n            }\n        ]\n    },\n    {\n        \"id\": 3,\n        \"region\": \"SOUSS-MASSA\",\n        \"villes\": [\n            {\n                \"id\": 1,\n                \"ville\": \"AGADIR\"\n            },\n            {\n                \"id\": 2,\n                \"ville\": \"AIT BAHA\"\n            },\n            {\n                \"id\": 3,\n                \"ville\": \"AIT MELLOUL\"\n            },\n            {\n                \"id\": 4,\n                \"ville\": \"AKKA\"\n            },\n            {\n                \"id\": 5,\n                \"ville\": \"ANZI\"\n            },\n            {\n                \"id\": 6,\n                \"ville\": \"AOULOUZ\"\n            },\n            {\n                \"id\": 7,\n                \"ville\": \"AOURIR\"\n            },\n            {\n                \"id\": 8,\n                \"ville\": \"ARBAA RASMOUKA\"\n            },\n            {\n                \"id\": 9,\n                \"ville\": \"ARGANA\"\n            },\n            {\n                \"id\": 10,\n                \"ville\": \"BELFAA\"\n            },\n            {\n                \"id\": 11,\n                \"ville\": \"BIOUGRA\"\n            },\n            {\n                \"id\": 12,\n                \"ville\": \"DCHEIRA EL JIHADIA\"\n            },\n            {\n                \"id\": 13,\n                \"ville\": \"EL GUERDANE\"\n            },\n            {\n                \"id\": 14,\n                \"ville\": \"FAM EL HISN\"\n            },\n            {\n                \"id\": 15,\n                \"ville\": \"FOUM ZGUID\"\n            },\n            {\n                \"id\": 16,\n                \"ville\": \"FREIJA\"\n            },\n            {\n                \"id\": 17,\n                \"ville\": \"IDA OUGNIDIF\"\n            },\n            {\n                \"id\": 18,\n                \"ville\": \"IMOUZZER\"\n            },\n            {\n                \"id\": 19,\n                \"ville\": \"INEZGANE\"\n            },\n            {\n                \"id\": 20,\n                \"ville\": \"IRHERM\"\n            },\n            {\n                \"id\": 21,\n                \"ville\": \"IRIGH N'TAHALA\"\n            },\n            {\n                \"id\": 22,\n                \"ville\": \"ISSAFEN\"\n            },\n            {\n                \"id\": 23,\n                \"ville\": \"LQLIAA\"\n            },\n            {\n                \"id\": 24,\n                \"ville\": \"MASSA\"\n            },\n            {\n                \"id\": 25,\n                \"ville\": \"OULAD BERHIL\"\n            },\n            {\n                \"id\": 26,\n                \"ville\": \"OULAD TEIMA\"\n            },\n            {\n                \"id\": 27,\n                \"ville\": \"SIDI BIBI\"\n            },\n            {\n                \"id\": 28,\n                \"ville\": \"TAFINGOULT\"\n            },\n            {\n                \"id\": 29,\n                \"ville\": \"TAFRAOUT\"\n            },\n            {\n                \"id\": 30,\n                \"ville\": \"TALIOUINE\"\n            },\n            {\n                \"id\": 31,\n                \"ville\": \"TAMRI\"\n            },\n            {\n                \"id\": 32,\n                \"ville\": \"TANALT\"\n            },\n            {\n                \"id\": 33,\n                \"ville\": \"TAROUDANNT\"\n            },\n            {\n                \"id\": 34,\n                \"ville\": \"TATA\"\n            },\n            {\n                \"id\": 35,\n                \"ville\": \"TEMSIA\"\n            },\n            {\n                \"id\": 36,\n                \"ville\": \"TISSINT\"\n            },\n            {\n                \"id\": 37,\n                \"ville\": \"TIZNIT\"\n            },\n            {\n                \"id\": 38,\n                \"ville\": \"AIT IAAZA\"\n            },\n            {\n                \"id\": 39,\n                \"ville\": \"DRARGUA\"\n            },\n            {\n                \"id\": 40,\n                \"ville\": \"INCHADEN\"\n            }\n        ]\n    },\n    {\n        \"id\": 4,\n        \"region\": \"DRAA-TAFILALET\",\n        \"villes\": [\n            {\n                \"id\": 1,\n                \"ville\": \"AGDZ\"\n            },\n            {\n                \"id\": 2,\n                \"ville\": \"AGHBALOU\"\n            },\n            {\n                \"id\": 3,\n                \"ville\": \"ALNIF\"\n            },\n            {\n                \"id\": 4,\n                \"ville\": \"AOUFOUS\"\n            },\n            {\n                \"id\": 5,\n                \"ville\": \"ARFOUD\"\n            },\n            {\n                \"id\": 6,\n                \"ville\": \"ASSOUL\"\n            },\n            {\n                \"id\": 7,\n                \"ville\": \"BOUDNIB\"\n            },\n            {\n                \"id\": 8,\n                \"ville\": \"BOUMALNE DADES\"\n            },\n            {\n                \"id\": 9,\n                \"ville\": \"BOUMIA\"\n            },\n            {\n                \"id\": 10,\n                \"ville\": \"ERRACHIDIA\"\n            },\n            {\n                \"id\": 11,\n                \"ville\": \"ER-RICH\"\n            },\n            {\n                \"id\": 12,\n                \"ville\": \"ER-RISSANI\"\n            },\n            {\n                \"id\": 13,\n                \"ville\": \"GOULMIMA\"\n            },\n            {\n                \"id\": 14,\n                \"ville\": \"GOURRAMA\"\n            },\n            {\n                \"id\": 15,\n                \"ville\": \"IGHREM N'OUGDAL\"\n            },\n            {\n                \"id\": 16,\n                \"ville\": \"IKNIOUEN\"\n            },\n            {\n                \"id\": 17,\n                \"ville\": \"IMILCHIL\"\n            },\n            {\n                \"id\": 18,\n                \"ville\": \"ITZER\"\n            },\n            {\n                \"id\": 19,\n                \"ville\": \"JORF\"\n            },\n            {\n                \"id\": 20,\n                \"ville\": \"KALAAT M'GOUNA\"\n            },\n            {\n                \"id\": 21,\n                \"ville\": \"MELAAB\"\n            },\n            {\n                \"id\": 22,\n                \"ville\": \"M'HAMID EL GHIZLANE\"\n            },\n            {\n                \"id\": 23,\n                \"ville\": \"MIDELT\"\n            },\n            {\n                \"id\": 24,\n                \"ville\": \"M'SEMRIR\"\n            },\n            {\n                \"id\": 25,\n                \"ville\": \"OUARZAZATE\"\n            },\n            {\n                \"id\": 26,\n                \"ville\": \"SKOURA AHL EL OUST\"\n            },\n            {\n                \"id\": 27,\n                \"ville\": \"TAGOUNITE\"\n            },\n            {\n                \"id\": 28,\n                \"ville\": \"TAZNAKHT\"\n            },\n            {\n                \"id\": 29,\n                \"ville\": \"TINEJDAD\"\n            },\n            {\n                \"id\": 30,\n                \"ville\": \"TINGHIR\"\n            },\n            {\n                \"id\": 31,\n                \"ville\": \"TOUNFITE\"\n            },\n            {\n                \"id\": 32,\n                \"ville\": \"ZAGORA\"\n            },\n            {\n                \"id\": 33,\n                \"ville\": \"ZAIDA\"\n            }\n        ]\n    },\n    {\n        \"id\": 5,\n        \"region\": \"ORIENTAL\",\n        \"villes\": [\n            {\n                \"id\": 1,\n                \"ville\": \"AHFIR\"\n            },\n            {\n                \"id\": 2,\n                \"ville\": \"AIN BNI MATHAR\"\n            },\n            {\n                \"id\": 3,\n                \"ville\": \"AIN ZOHRA\"\n            },\n            {\n                \"id\": 4,\n                \"ville\": \"AKLIM\"\n            },\n            {\n                \"id\": 5,\n                \"ville\": \"AL AAROUI\"\n            },\n            {\n                \"id\": 6,\n                \"ville\": \"AREKMANE\"\n            },\n            {\n                \"id\": 7,\n                \"ville\": \"BARKINE\"\n            },\n            {\n                \"id\": 8,\n                \"ville\": \"BEN TAIEB\"\n            },\n            {\n                \"id\": 9,\n                \"ville\": \"BERKANE\"\n            },\n            {\n                \"id\": 10,\n                \"ville\": \"BNI ANSAR\"\n            },\n            {\n                \"id\": 11,\n                \"ville\": \"BNI CHIKER\"\n            },\n            {\n                \"id\": 12,\n                \"ville\": \"BNI DRAR\"\n            },\n            {\n                \"id\": 13,\n                \"ville\": \"BNI TADJITE\"\n            },\n            {\n                \"id\": 14,\n                \"ville\": \"BOUANANE\"\n            },\n            {\n                \"id\": 15,\n                \"ville\": \"BOUARFA\"\n            },\n            {\n                \"id\": 16,\n                \"ville\": \"BOUDINAR\"\n            },\n            {\n                \"id\": 17,\n                \"ville\": \"DAR EL KEBDANI\"\n            },\n            {\n                \"id\": 18,\n                \"ville\": \"DEBDOU\"\n            },\n            {\n                \"id\": 19,\n                \"ville\": \"DRIOUCH\"\n            },\n            {\n                \"id\": 20,\n                \"ville\": \"EL AIOUN SIDI MELLOUK\"\n            },\n            {\n                \"id\": 21,\n                \"ville\": \"FIGUIG\"\n            },\n            {\n                \"id\": 22,\n                \"ville\": \"GUERCIF\"\n            },\n            {\n                \"id\": 23,\n                \"ville\": \"HASSI BERKANE\"\n            },\n            {\n                \"id\": 24,\n                \"ville\": \"HOUARA OULAD RAHO\"\n            },\n            {\n                \"id\": 25,\n                \"ville\": \"JERADA\"\n            },\n            {\n                \"id\": 26,\n                \"ville\": \"LAMRIJA\"\n            },\n            {\n                \"id\": 27,\n                \"ville\": \"MADAGH\"\n            },\n            {\n                \"id\": 28,\n                \"ville\": \"MAZGUITAM\"\n            },\n            {\n                \"id\": 29,\n                \"ville\": \"MIDAR\"\n            },\n            {\n                \"id\": 30,\n                \"ville\": \"NADOR\"\n            },\n            {\n                \"id\": 31,\n                \"ville\": \"OUJDA\"\n            },\n            {\n                \"id\": 32,\n                \"ville\": \"RAS EL MA\"\n            },\n            {\n                \"id\": 33,\n                \"ville\": \"SAIDIA\"\n            },\n            {\n                \"id\": 34,\n                \"ville\": \"SAKA\"\n            },\n            {\n                \"id\": 35,\n                \"ville\": \"SELOUANE\"\n            },\n            {\n                \"id\": 36,\n                \"ville\": \"SIDI YAHIA\"\n            },\n            {\n                \"id\": 37,\n                \"ville\": \"TAFERSIT\"\n            },\n            {\n                \"id\": 38,\n                \"ville\": \"TAFOUGHALT\"\n            },\n            {\n                \"id\": 39,\n                \"ville\": \"TALSINT\"\n            },\n            {\n                \"id\": 40,\n                \"ville\": \"TAOURIRT\"\n            },\n            {\n                \"id\": 41,\n                \"ville\": \"TEMSAMANE\"\n            },\n            {\n                \"id\": 42,\n                \"ville\": \"TENDRARA\"\n            },\n            {\n                \"id\": 43,\n                \"ville\": \"TOUISSIT\"\n            },\n            {\n                \"id\": 44,\n                \"ville\": \"ZAIO\"\n            },\n            {\n                \"id\": 45,\n                \"ville\": \"ZEGHANGHANE\"\n            },\n            {\n                \"id\": 46,\n                \"ville\": \"IAAZZANENE\"\n            },\n            {\n                \"id\": 47,\n                \"ville\": \"FARKHANA\"\n            },\n            {\n                \"id\": 48,\n                \"ville\": \"AZLAF\"\n            },\n            {\n                \"id\": 49,\n                \"ville\": \"BNI BOUIFROUR\"\n            },\n            {\n                \"id\": 50,\n                \"ville\": \"KASSITA\"\n            },\n            {\n                \"id\": 51,\n                \"ville\": \"TAZAGHINE\"\n            }\n        ]\n    },\n    {\n        \"id\": 6,\n        \"region\": \"RABAT-SALE-KENITRA\",\n        \"villes\": [\n            {\n                \"id\": 1,\n                \"ville\": \"AIN ATTIG\"\n            },\n            {\n                \"id\": 2,\n                \"ville\": \"AIN DFALI\"\n            },\n            {\n                \"id\": 3,\n                \"ville\": \"AIN EL AOUDA\"\n            },\n            {\n                \"id\": 4,\n                \"ville\": \"AIT YADINE\"\n            },\n            {\n                \"id\": 5,\n                \"ville\": \"ARBAOUA\"\n            },\n            {\n                \"id\": 6,\n                \"ville\": \"BRACHOUA\"\n            },\n            {\n                \"id\": 7,\n                \"ville\": \"DAR GUEDDARI\"\n            },\n            {\n                \"id\": 8,\n                \"ville\": \"EZZHILIGA\"\n            },\n            {\n                \"id\": 9,\n                \"ville\": \"HAD KOURT\"\n            },\n            {\n                \"id\": 10,\n                \"ville\": \"HARHOURA\"\n            },\n            {\n                \"id\": 11,\n                \"ville\": \"JORF EL MELHA\"\n            },\n            {\n                \"id\": 12,\n                \"ville\": \"KCEIBYA\"\n            },\n            {\n                \"id\": 13,\n                \"ville\": \"KENITRA\"\n            },\n            {\n                \"id\": 14,\n                \"ville\": \"KHEMISSET\"\n            },\n            {\n                \"id\": 15,\n                \"ville\": \"KHNICHET\"\n            },\n            {\n                \"id\": 16,\n                \"ville\": \"LALLA MIMOUNA\"\n            },\n            {\n                \"id\": 17,\n                \"ville\": \"MAAZIZ\"\n            },\n            {\n                \"id\": 18,\n                \"ville\": \"MECHRAA BEL KSIRI\"\n            },\n            {\n                \"id\": 19,\n                \"ville\": \"MOULAY BOUSSELHAM\"\n            },\n            {\n                \"id\": 20,\n                \"ville\": \"OULMES\"\n            },\n            {\n                \"id\": 21,\n                \"ville\": \"RABAT\"\n            },\n            {\n                \"id\": 22,\n                \"ville\": \"ROMMANI\"\n            },\n            {\n                \"id\": 23,\n                \"ville\": \"SALE\"\n            },\n            {\n                \"id\": 24,\n                \"ville\": \"SIDI ABDERRAZAK\"\n            },\n            {\n                \"id\": 25,\n                \"ville\": \"SIDI ALLAL EL BAHRAOUI\"\n            },\n            {\n                \"id\": 26,\n                \"ville\": \"SIDI ALLAL TAZI\"\n            },\n            {\n                \"id\": 27,\n                \"ville\": \"SIDI BOUKNADEL\"\n            },\n            {\n                \"id\": 28,\n                \"ville\": \"SIDI KACEM\"\n            },\n            {\n                \"id\": 29,\n                \"ville\": \"SIDI SLIMANE\"\n            },\n            {\n                \"id\": 30,\n                \"ville\": \"SIDI YAHYA EL GHARB\"\n            },\n            {\n                \"id\": 31,\n                \"ville\": \"SIDI YAHYA ZAER\"\n            },\n            {\n                \"id\": 32,\n                \"ville\": \"SKHIRATE\"\n            },\n            {\n                \"id\": 33,\n                \"ville\": \"SOUK EL ARBAA\"\n            },\n            {\n                \"id\": 34,\n                \"ville\": \"SOUK TLET EL GHARB\"\n            },\n            {\n                \"id\": 35,\n                \"ville\": \"TEMARA\"\n            },\n            {\n                \"id\": 36,\n                \"ville\": \"TIDDAS\"\n            },\n            {\n                \"id\": 37,\n                \"ville\": \"TIFLET\"\n            },\n            {\n                \"id\": 38,\n                \"ville\": \"TOUARGA\"\n            },\n            {\n                \"id\": 39,\n                \"ville\": \"TAMESNA\"\n            }\n        ]\n    },\n    {\n        \"id\": 7,\n        \"region\": \"CASABLANCA-SETTAT\",\n        \"villes\": [\n            {\n                \"id\": 1,\n                \"ville\": \"AIN HARROUDA\"\n            },\n            {\n                \"id\": 2,\n                \"ville\": \"AZEMMOUR\"\n            },\n            {\n                \"id\": 3,\n                \"ville\": \"BEN AHMED\"\n            },\n            {\n                \"id\": 4,\n                \"ville\": \"BENSLIMANE\"\n            },\n            {\n                \"id\": 5,\n                \"ville\": \"BERRECHID\"\n            },\n            {\n                \"id\": 6,\n                \"ville\": \"BNI HILAL\"\n            },\n            {\n                \"id\": 7,\n                \"ville\": \"BNI YAKHLEF\"\n            },\n            {\n                \"id\": 8,\n                \"ville\": \"BOUSKOURA\"\n            },\n            {\n                \"id\": 9,\n                \"ville\": \"BOUZNIKA\"\n            },\n            {\n                \"id\": 10,\n                \"ville\": \"CASABLANCA\"\n            },\n            {\n                \"id\": 11,\n                \"ville\": \"DAR BOUAZZA\"\n            },\n            {\n                \"id\": 12,\n                \"ville\": \"EL BOROUJ\"\n            },\n            {\n                \"id\": 13,\n                \"ville\": \"EL GARA\"\n            },\n            {\n                \"id\": 14,\n                \"ville\": \"EL JADIDA\"\n            },\n            {\n                \"id\": 15,\n                \"ville\": \"EL MANSOURIA\"\n            },\n            {\n                \"id\": 16,\n                \"ville\": \"FDALATE\"\n            },\n            {\n                \"id\": 17,\n                \"ville\": \"LAAOUNATE\"\n            },\n            {\n                \"id\": 18,\n                \"ville\": \"LBIR JDID\"\n            },\n            {\n                \"id\": 19,\n                \"ville\": \"LGHARBIA\"\n            },\n            {\n                \"id\": 20,\n                \"ville\": \"LOUALIDIA\"\n            },\n            {\n                \"id\": 21,\n                \"ville\": \"LOULAD\"\n            },\n            {\n                \"id\": 22,\n                \"ville\": \"MEDIOUNA\"\n            },\n            {\n                \"id\": 23,\n                \"ville\": \"MELLILA\"\n            },\n            {\n                \"id\": 24,\n                \"ville\": \"MOHAMMEDIA\"\n            },\n            {\n                \"id\": 25,\n                \"ville\": \"MOULAY ABDELLAH\"\n            },\n            {\n                \"id\": 26,\n                \"ville\": \"OULAD ABBOU\"\n            },\n            {\n                \"id\": 27,\n                \"ville\": \"OULAD AMRANE\"\n            },\n            {\n                \"id\": 28,\n                \"ville\": \"OULAD SAID\"\n            },\n            {\n                \"id\": 29,\n                \"ville\": \"OULED FREJ\"\n            },\n            {\n                \"id\": 30,\n                \"ville\": \"RAS EL AIN CHAOUIA\"\n            },\n            {\n                \"id\": 31,\n                \"ville\": \"SETTAT\"\n            },\n            {\n                \"id\": 32,\n                \"ville\": \"SIDI BENNOUR\"\n            },\n            {\n                \"id\": 33,\n                \"ville\": \"SIDI BETTACHE\"\n            },\n            {\n                \"id\": 34,\n                \"ville\": \"SIDI HAJJAJ\"\n            },\n            {\n                \"id\": 35,\n                \"ville\": \"SIDI MOUSSA BEN ALI\"\n            },\n            {\n                \"id\": 36,\n                \"ville\": \"SIDI RAHAL CHATAI\"\n            },\n            {\n                \"id\": 37,\n                \"ville\": \"SIDI SMAIL\"\n            },\n            {\n                \"id\": 38,\n                \"ville\": \"SOUALEM TRIFIYA\"\n            },\n            {\n                \"id\": 39,\n                \"ville\": \"TIT MELLIL\"\n            },\n            {\n                \"id\": 40,\n                \"ville\": \"ZEMAMRA\"\n            },\n            {\n                \"id\": 41,\n                \"ville\": \"NOUACEUR\"\n            },\n            {\n                \"id\": 42,\n                \"ville\": \"OULAD SALAH\"\n            },\n            {\n                \"id\": 43,\n                \"ville\": \"DEROUA\"\n            },\n            {\n                \"id\": 44,\n                \"ville\": \"HAD SOUALEM\"\n            },\n            {\n                \"id\": 45,\n                \"ville\": \"LAHRAOUYINE\"\n            }\n        ]\n    },\n    {\n        \"id\": 8,\n        \"region\": \"MARRAKECH-SAFI\",\n        \"villes\": [\n            {\n                \"id\": 1,\n                \"ville\": \"AIT DAOUD\"\n            },\n            {\n                \"id\": 2,\n                \"ville\": \"AIT OURIR\"\n            },\n            {\n                \"id\": 3,\n                \"ville\": \"AMIZMIZ\"\n            },\n            {\n                \"id\": 4,\n                \"ville\": \"ASNI\"\n            },\n            {\n                \"id\": 5,\n                \"ville\": \"BEN GUERIR\"\n            },\n            {\n                \"id\": 6,\n                \"ville\": \"BOUCHANE\"\n            },\n            {\n                \"id\": 7,\n                \"ville\": \"BOUGUEDRA\"\n            },\n            {\n                \"id\": 8,\n                \"ville\": \"CHICHAOUA\"\n            },\n            {\n                \"id\": 9,\n                \"ville\": \"ECHEMMAIA\"\n            },\n            {\n                \"id\": 10,\n                \"ville\": \"EL HANCHANE\"\n            },\n            {\n                \"id\": 11,\n                \"ville\": \"EL KELAA DES SRARHNA\"\n            },\n            {\n                \"id\": 12,\n                \"ville\": \"ESSAOUIRA\"\n            },\n            {\n                \"id\": 13,\n                \"ville\": \"GHMATE\"\n            },\n            {\n                \"id\": 14,\n                \"ville\": \"HAD DRA\"\n            },\n            {\n                \"id\": 15,\n                \"ville\": \"HRARA\"\n            },\n            {\n                \"id\": 16,\n                \"ville\": \"IMINTANOUTE\"\n            },\n            {\n                \"id\": 17,\n                \"ville\": \"JAMAAT SHAIM\"\n            },\n            {\n                \"id\": 18,\n                \"ville\": \"LAATTAOUIA\"\n            },\n            {\n                \"id\": 19,\n                \"ville\": \"LOUDAYA\"\n            },\n            {\n                \"id\": 20,\n                \"ville\": \"MARRAKECH\"\n            },\n            {\n                \"id\": 21,\n                \"ville\": \"OURIKA\"\n            },\n            {\n                \"id\": 22,\n                \"ville\": \"SAFI\"\n            },\n            {\n                \"id\": 23,\n                \"ville\": \"SEBT GZOULA\"\n            },\n            {\n                \"id\": 24,\n                \"ville\": \"SID L'MOKHTAR\"\n            },\n            {\n                \"id\": 25,\n                \"ville\": \"SIDI BOU OTHMANE\"\n            },\n            {\n                \"id\": 26,\n                \"ville\": \"SIDI BOUZID ARRAGRAGUI\"\n            },\n            {\n                \"id\": 27,\n                \"ville\": \"SIDI RAHHAL\"\n            },\n            {\n                \"id\": 28,\n                \"ville\": \"SKHOUR REHAMNA\"\n            },\n            {\n                \"id\": 29,\n                \"ville\": \"SMIMOU\"\n            },\n            {\n                \"id\": 30,\n                \"ville\": \"TAFETACHTE\"\n            },\n            {\n                \"id\": 31,\n                \"ville\": \"TAHANNAOUT\"\n            },\n            {\n                \"id\": 32,\n                \"ville\": \"TALAT N'YAAQOUB\"\n            },\n            {\n                \"id\": 33,\n                \"ville\": \"TALMEST\"\n            },\n            {\n                \"id\": 34,\n                \"ville\": \"TAMALLALT\"\n            },\n            {\n                \"id\": 35,\n                \"ville\": \"TAMANAR\"\n            },\n            {\n                \"id\": 36,\n                \"ville\": \"YOUSSOUFIA\"\n            },\n            {\n                \"id\": 37,\n                \"ville\": \"TAMANSOURT\"\n            }\n        ]\n    },\n    {\n        \"id\": 9,\n        \"region\": \"GUELMIM-OUED NOUN\",\n        \"villes\": [\n            {\n                \"id\": 1,\n                \"ville\": \"AIT ERKHA\"\n            },\n            {\n                \"id\": 2,\n                \"ville\": \"ASRIR\"\n            },\n            {\n                \"id\": 3,\n                \"ville\": \"ASSA\"\n            },\n            {\n                \"id\": 4,\n                \"ville\": \"BOUIZAKARNE\"\n            },\n            {\n                \"id\": 5,\n                \"ville\": \"GUELMIM\"\n            },\n            {\n                \"id\": 6,\n                \"ville\": \"IFRANE ATLAS SAGHIR\"\n            },\n            {\n                \"id\": 7,\n                \"ville\": \"LAKHSAS\"\n            },\n            {\n                \"id\": 8,\n                \"ville\": \"MESTI\"\n            },\n            {\n                \"id\": 9,\n                \"ville\": \"MIRLEFT\"\n            },\n            {\n                \"id\": 10,\n                \"ville\": \"SIDI IFNI\"\n            },\n            {\n                \"id\": 11,\n                \"ville\": \"TAGHJIJT\"\n            },\n            {\n                \"id\": 12,\n                \"ville\": \"TAN TAN\"\n            },\n            {\n                \"id\": 13,\n                \"ville\": \"TIGHIRT\"\n            },\n            {\n                \"id\": 14,\n                \"ville\": \"ZAG\"\n            }\n        ]\n    },\n    {\n        \"id\": 10,\n        \"region\": \"TANGER-TETOUAN-AL HOCEIMA\",\n        \"villes\": [\n            {\n                \"id\": 1,\n                \"ville\": \"AJDIR\"\n            },\n            {\n                \"id\": 2,\n                \"ville\": \"AL HOCEIMA\"\n            },\n            {\n                \"id\": 3,\n                \"ville\": \"ASSILAH\"\n            },\n            {\n                \"id\": 4,\n                \"ville\": \"BAB BERRED\"\n            },\n            {\n                \"id\": 5,\n                \"ville\": \"BAB TAZA\"\n            },\n            {\n                \"id\": 6,\n                \"ville\": \"BNI AHMED CHERQIA\"\n            },\n            {\n                \"id\": 7,\n                \"ville\": \"BNI AMMART\"\n            },\n            {\n                \"id\": 8,\n                \"ville\": \"BNI BOUAYACH\"\n            },\n            {\n                \"id\": 9,\n                \"ville\": \"BNI BOUFRAH\"\n            },\n            {\n                \"id\": 10,\n                \"ville\": \"BNI GARFETT\"\n            },\n            {\n                \"id\": 11,\n                \"ville\": \"BNI HADIFA\"\n            },\n            {\n                \"id\": 12,\n                \"ville\": \"CHEFCHAOUEN\"\n            },\n            {\n                \"id\": 13,\n                \"ville\": \"DAR BNI KARRICH\"\n            },\n            {\n                \"id\": 14,\n                \"ville\": \"DAR CHAOUI\"\n            },\n            {\n                \"id\": 15,\n                \"ville\": \"FNIDEQ\"\n            },\n            {\n                \"id\": 16,\n                \"ville\": \"GUEZNAIA\"\n            },\n            {\n                \"id\": 17,\n                \"ville\": \"HAD AL GHARBIA\"\n            },\n            {\n                \"id\": 18,\n                \"ville\": \"IMZOUREN\"\n            },\n            {\n                \"id\": 19,\n                \"ville\": \"ISSAGUEN\"\n            },\n            {\n                \"id\": 20,\n                \"ville\": \"JEBHA\"\n            },\n            {\n                \"id\": 21,\n                \"ville\": \"KSAR EL KEBIR\"\n            },\n            {\n                \"id\": 22,\n                \"ville\": \"KSAR SGHIR\"\n            },\n            {\n                \"id\": 23,\n                \"ville\": \"LAOUAMRA\"\n            },\n            {\n                \"id\": 24,\n                \"ville\": \"LARACHE\"\n            },\n            {\n                \"id\": 25,\n                \"ville\": \"MALLOUSSA\"\n            },\n            {\n                \"id\": 26,\n                \"ville\": \"MARTIL\"\n            },\n            {\n                \"id\": 27,\n                \"ville\": \"M'DIQ\"\n            },\n            {\n                \"id\": 28,\n                \"ville\": \"MOQRISSET\"\n            },\n            {\n                \"id\": 29,\n                \"ville\": \"OUED LAOU\"\n            },\n            {\n                \"id\": 30,\n                \"ville\": \"OUEZZANE\"\n            },\n            {\n                \"id\": 31,\n                \"ville\": \"SAHEL\"\n            },\n            {\n                \"id\": 32,\n                \"ville\": \"SIDI BOUSBER\"\n            },\n            {\n                \"id\": 33,\n                \"ville\": \"SIDI LYAMANI\"\n            },\n            {\n                \"id\": 34,\n                \"ville\": \"SIDI REDOUANE\"\n            },\n            {\n                \"id\": 35,\n                \"ville\": \"TANGER\"\n            },\n            {\n                \"id\": 36,\n                \"ville\": \"TARGUIST\"\n            },\n            {\n                \"id\": 37,\n                \"ville\": \"TATOFT\"\n            },\n            {\n                \"id\": 38,\n                \"ville\": \"TEROUAL\"\n            },\n            {\n                \"id\": 39,\n                \"ville\": \"TETOUAN\"\n            },\n            {\n                \"id\": 40,\n                \"ville\": \"ZOUMI\"\n            },\n            {\n                \"id\": 41,\n                \"ville\": \"AIN DORIJ\"\n            },\n            {\n                \"id\": 42,\n                \"ville\": \"SIDI BOUAFIF\"\n            }\n        ]\n    },\n    {\n        \"id\": 11,\n        \"region\": \"EDDAKHLA-OUED EDDAHAB\",\n        \"villes\": [\n            {\n                \"id\": 1,\n                \"ville\": \"AOUSSERD\"\n            },\n            {\n                \"id\": 2,\n                \"ville\": \"BIR GANDOUZ\"\n            },\n            {\n                \"id\": 3,\n                \"ville\": \"DAKHLA\"\n            }\n        ]\n    },\n    {\n        \"id\": 12,\n        \"region\": \"LAAYOUNE-SAKIA EL HAMRA\",\n        \"villes\": [\n            {\n                \"id\": 1,\n                \"ville\": \"BOUJDOUR\"\n            },\n            {\n                \"id\": 2,\n                \"ville\": \"ES-SEMARA\"\n            },\n            {\n                \"id\": 3,\n                \"ville\": \"LAAYOUNE\"\n            },\n            {\n                \"id\": 4,\n                \"ville\": \"TARFAYA\"\n            },\n            {\n                \"id\": 5,\n                \"ville\": \"EL MARSA\"\n            }\n        ]\n    }\n]"
+[
+    {
+        "id": 1,
+        "region": "FES-MEKNES",
+        "villes": [
+            {
+                "id": 1,
+                "ville": "ADREJ"
+            },
+            {
+                "id": 2,
+                "ville": "AGOURAI"
+            },
+            {
+                "id": 3,
+                "ville": "AIN AICHA"
+            },
+            {
+                "id": 4,
+                "ville": "AIN CHEGGAG"
+            },
+            {
+                "id": 5,
+                "ville": "AIN LEUH"
+            },
+            {
+                "id": 6,
+                "ville": "AIN MEDIOUNA"
+            },
+            {
+                "id": 7,
+                "ville": "AIN TAOUJDATE"
+            },
+            {
+                "id": 8,
+                "ville": "AKNOUL"
+            },
+            {
+                "id": 9,
+                "ville": "AZROU"
+            },
+            {
+                "id": 10,
+                "ville": "BAB EL MROUJ"
+            },
+            {
+                "id": 11,
+                "ville": "BAB MARZOUKA"
+            },
+            {
+                "id": 12,
+                "ville": "BHALIL"
+            },
+            {
+                "id": 13,
+                "ville": "BNI FRASSEN"
+            },
+            {
+                "id": 14,
+                "ville": "BNI LENT"
+            },
+            {
+                "id": 15,
+                "ville": "BNI OULID"
+            },
+            {
+                "id": 16,
+                "ville": "BOUAROUSS"
+            },
+            {
+                "id": 17,
+                "ville": "BOUFAKRANE"
+            },
+            {
+                "id": 18,
+                "ville": "BOUHOUDA"
+            },
+            {
+                "id": 19,
+                "ville": "BOULEMANE"
+            },
+            {
+                "id": 20,
+                "ville": "BOURD"
+            },
+            {
+                "id": 21,
+                "ville": "BOUZEMLANE"
+            },
+            {
+                "id": 22,
+                "ville": "EL HAJEB"
+            },
+            {
+                "id": 23,
+                "ville": "FES"
+            },
+            {
+                "id": 24,
+                "ville": "GHAFSAI"
+            },
+            {
+                "id": 25,
+                "ville": "IFRANE"
+            },
+            {
+                "id": 26,
+                "ville": "IMOUZZER KANDAR"
+            },
+            {
+                "id": 27,
+                "ville": "IMOUZZER MARMOUCHA"
+            },
+            {
+                "id": 28,
+                "ville": "KAF EL GHAR"
+            },
+            {
+                "id": 29,
+                "ville": "KARIA BA MOHAMED"
+            },
+            {
+                "id": 30,
+                "ville": "KSABI MOULOUYA"
+            },
+            {
+                "id": 31,
+                "ville": "MAGHRAOUA"
+            },
+            {
+                "id": 32,
+                "ville": "MEKNES"
+            },
+            {
+                "id": 33,
+                "ville": "M'HAYA"
+            },
+            {
+                "id": 34,
+                "ville": "MISSOUR"
+            },
+            {
+                "id": 35,
+                "ville": "MOULAY YACOUB"
+            },
+            {
+                "id": 36,
+                "ville": "OUARTZAGH"
+            },
+            {
+                "id": 37,
+                "ville": "OUED AMLIL"
+            },
+            {
+                "id": 38,
+                "ville": "OULAD ALI YOUSSEF"
+            },
+            {
+                "id": 39,
+                "ville": "OUTAT EL HAJ"
+            },
+            {
+                "id": 40,
+                "ville": "RAS TABOUDA"
+            },
+            {
+                "id": 41,
+                "ville": "SABAA AIYOUN"
+            },
+            {
+                "id": 42,
+                "ville": "SEFROU"
+            },
+            {
+                "id": 43,
+                "ville": "SIDI HARAZEM"
+            },
+            {
+                "id": 44,
+                "ville": "TAFRANT"
+            },
+            {
+                "id": 45,
+                "ville": "TAHLA"
+            },
+            {
+                "id": 46,
+                "ville": "TAINASTE"
+            },
+            {
+                "id": 47,
+                "ville": "TAOUNATE"
+            },
+            {
+                "id": 48,
+                "ville": "TAZA"
+            },
+            {
+                "id": 49,
+                "ville": "TAZARINE"
+            },
+            {
+                "id": 50,
+                "ville": "THAR ES-SOUK"
+            },
+            {
+                "id": 51,
+                "ville": "TIMAHDITE"
+            },
+            {
+                "id": 52,
+                "ville": "TISSA"
+            },
+            {
+                "id": 53,
+                "ville": "TIZI OUASLI"
+            },
+            {
+                "id": 54,
+                "ville": "ZRARDA"
+            },
+            {
+                "id": 55,
+                "ville": "BENI YAZRHA"
+            },
+            {
+                "id": 56,
+                "ville": "MOULAY DRISS ZERHOUN"
+            },
+            {
+                "id": 57,
+                "ville": "RIBATE EL KHEIR"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "region": "BENI MELLAL-KHENIFRA",
+        "villes": [
+            {
+                "id": 1,
+                "ville": "AFOURAR"
+            },
+            {
+                "id": 2,
+                "ville": "AGHBALA"
+            },
+            {
+                "id": 3,
+                "ville": "AGUELMOUS"
+            },
+            {
+                "id": 4,
+                "ville": "AIT AATAB ( CERCLE DE BZOU )"
+            },
+            {
+                "id": 5,
+                "ville": "AIT ISHAQ"
+            },
+            {
+                "id": 6,
+                "ville": "AIT M'HAMED"
+            },
+            {
+                "id": 7,
+                "ville": "AZILAL"
+            },
+            {
+                "id": 8,
+                "ville": "BEJAAD"
+            },
+            {
+                "id": 9,
+                "ville": "BENI MELLAL"
+            },
+            {
+                "id": 10,
+                "ville": "BNI OUKIL"
+            },
+            {
+                "id": 11,
+                "ville": "BOUJNIBA"
+            },
+            {
+                "id": 12,
+                "ville": "BRADIA"
+            },
+            {
+                "id": 13,
+                "ville": "BZOU"
+            },
+            {
+                "id": 14,
+                "ville": "CHOUGRANE"
+            },
+            {
+                "id": 15,
+                "ville": "DAR OULD ZIDOUH"
+            },
+            {
+                "id": 16,
+                "ville": "DEMNATE"
+            },
+            {
+                "id": 17,
+                "ville": "EL KBAB"
+            },
+            {
+                "id": 18,
+                "ville": "EL KSIBA"
+            },
+            {
+                "id": 19,
+                "ville": "FQUIH BEN SALAH"
+            },
+            {
+                "id": 20,
+                "ville": "KAHF NSSAR"
+            },
+            {
+                "id": 21,
+                "ville": "KASBA TADLA"
+            },
+            {
+                "id": 22,
+                "ville": "KERROUCHEN"
+            },
+            {
+                "id": 23,
+                "ville": "KHENIFRA"
+            },
+            {
+                "id": 24,
+                "ville": "KHOURIBGA"
+            },
+            {
+                "id": 25,
+                "ville": "MOULAY BOUAZZA"
+            },
+            {
+                "id": 26,
+                "ville": "M'RIRT"
+            },
+            {
+                "id": 27,
+                "ville": "OUAOUIZEGHT"
+            },
+            {
+                "id": 28,
+                "ville": "OUED ZEM"
+            },
+            {
+                "id": 29,
+                "ville": "OULED AYAD"
+            },
+            {
+                "id": 30,
+                "ville": "OULED M'BAREK"
+            },
+            {
+                "id": 31,
+                "ville": "OULED YAICH"
+            },
+            {
+                "id": 32,
+                "ville": "SOUK SEBT OULED NEMMA"
+            },
+            {
+                "id": 33,
+                "ville": "TABANT"
+            },
+            {
+                "id": 34,
+                "ville": "TAGHZIRT"
+            },
+            {
+                "id": 35,
+                "ville": "TAGLEFT"
+            },
+            {
+                "id": 36,
+                "ville": "TANANT"
+            },
+            {
+                "id": 37,
+                "ville": "ZAOUIAT AHANSAL"
+            },
+            {
+                "id": 38,
+                "ville": "ZAOUIAT CHEIKH"
+            },
+            {
+                "id": 39,
+                "ville": "HATTANE"
+            },
+            {
+                "id": 40,
+                "ville": "OULED ZMAM"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "region": "SOUSS-MASSA",
+        "villes": [
+            {
+                "id": 1,
+                "ville": "AGADIR"
+            },
+            {
+                "id": 2,
+                "ville": "AIT BAHA"
+            },
+            {
+                "id": 3,
+                "ville": "AIT MELLOUL"
+            },
+            {
+                "id": 4,
+                "ville": "AKKA"
+            },
+            {
+                "id": 5,
+                "ville": "ANZI"
+            },
+            {
+                "id": 6,
+                "ville": "AOULOUZ"
+            },
+            {
+                "id": 7,
+                "ville": "AOURIR"
+            },
+            {
+                "id": 8,
+                "ville": "ARBAA RASMOUKA"
+            },
+            {
+                "id": 9,
+                "ville": "ARGANA"
+            },
+            {
+                "id": 10,
+                "ville": "BELFAA"
+            },
+            {
+                "id": 11,
+                "ville": "BIOUGRA"
+            },
+            {
+                "id": 12,
+                "ville": "DCHEIRA EL JIHADIA"
+            },
+            {
+                "id": 13,
+                "ville": "EL GUERDANE"
+            },
+            {
+                "id": 14,
+                "ville": "FAM EL HISN"
+            },
+            {
+                "id": 15,
+                "ville": "FOUM ZGUID"
+            },
+            {
+                "id": 16,
+                "ville": "FREIJA"
+            },
+            {
+                "id": 17,
+                "ville": "IDA OUGNIDIF"
+            },
+            {
+                "id": 18,
+                "ville": "IMOUZZER"
+            },
+            {
+                "id": 19,
+                "ville": "INEZGANE"
+            },
+            {
+                "id": 20,
+                "ville": "IRHERM"
+            },
+            {
+                "id": 21,
+                "ville": "IRIGH N'TAHALA"
+            },
+            {
+                "id": 22,
+                "ville": "ISSAFEN"
+            },
+            {
+                "id": 23,
+                "ville": "LQLIAA"
+            },
+            {
+                "id": 24,
+                "ville": "MASSA"
+            },
+            {
+                "id": 25,
+                "ville": "OULAD BERHIL"
+            },
+            {
+                "id": 26,
+                "ville": "OULAD TEIMA"
+            },
+            {
+                "id": 27,
+                "ville": "SIDI BIBI"
+            },
+            {
+                "id": 28,
+                "ville": "TAFINGOULT"
+            },
+            {
+                "id": 29,
+                "ville": "TAFRAOUT"
+            },
+            {
+                "id": 30,
+                "ville": "TALIOUINE"
+            },
+            {
+                "id": 31,
+                "ville": "TAMRI"
+            },
+            {
+                "id": 32,
+                "ville": "TANALT"
+            },
+            {
+                "id": 33,
+                "ville": "TAROUDANNT"
+            },
+            {
+                "id": 34,
+                "ville": "TATA"
+            },
+            {
+                "id": 35,
+                "ville": "TEMSIA"
+            },
+            {
+                "id": 36,
+                "ville": "TISSINT"
+            },
+            {
+                "id": 37,
+                "ville": "TIZNIT"
+            },
+            {
+                "id": 38,
+                "ville": "AIT IAAZA"
+            },
+            {
+                "id": 39,
+                "ville": "DRARGUA"
+            },
+            {
+                "id": 40,
+                "ville": "INCHADEN"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "region": "DRAA-TAFILALET",
+        "villes": [
+            {
+                "id": 1,
+                "ville": "AGDZ"
+            },
+            {
+                "id": 2,
+                "ville": "AGHBALOU"
+            },
+            {
+                "id": 3,
+                "ville": "ALNIF"
+            },
+            {
+                "id": 4,
+                "ville": "AOUFOUS"
+            },
+            {
+                "id": 5,
+                "ville": "ARFOUD"
+            },
+            {
+                "id": 6,
+                "ville": "ASSOUL"
+            },
+            {
+                "id": 7,
+                "ville": "BOUDNIB"
+            },
+            {
+                "id": 8,
+                "ville": "BOUMALNE DADES"
+            },
+            {
+                "id": 9,
+                "ville": "BOUMIA"
+            },
+            {
+                "id": 10,
+                "ville": "ERRACHIDIA"
+            },
+            {
+                "id": 11,
+                "ville": "ER-RICH"
+            },
+            {
+                "id": 12,
+                "ville": "ER-RISSANI"
+            },
+            {
+                "id": 13,
+                "ville": "GOULMIMA"
+            },
+            {
+                "id": 14,
+                "ville": "GOURRAMA"
+            },
+            {
+                "id": 15,
+                "ville": "IGHREM N'OUGDAL"
+            },
+            {
+                "id": 16,
+                "ville": "IKNIOUEN"
+            },
+            {
+                "id": 17,
+                "ville": "IMILCHIL"
+            },
+            {
+                "id": 18,
+                "ville": "ITZER"
+            },
+            {
+                "id": 19,
+                "ville": "JORF"
+            },
+            {
+                "id": 20,
+                "ville": "KALAAT M'GOUNA"
+            },
+            {
+                "id": 21,
+                "ville": "MELAAB"
+            },
+            {
+                "id": 22,
+                "ville": "M'HAMID EL GHIZLANE"
+            },
+            {
+                "id": 23,
+                "ville": "MIDELT"
+            },
+            {
+                "id": 24,
+                "ville": "M'SEMRIR"
+            },
+            {
+                "id": 25,
+                "ville": "OUARZAZATE"
+            },
+            {
+                "id": 26,
+                "ville": "SKOURA AHL EL OUST"
+            },
+            {
+                "id": 27,
+                "ville": "TAGOUNITE"
+            },
+            {
+                "id": 28,
+                "ville": "TAZNAKHT"
+            },
+            {
+                "id": 29,
+                "ville": "TINEJDAD"
+            },
+            {
+                "id": 30,
+                "ville": "TINGHIR"
+            },
+            {
+                "id": 31,
+                "ville": "TOUNFITE"
+            },
+            {
+                "id": 32,
+                "ville": "ZAGORA"
+            },
+            {
+                "id": 33,
+                "ville": "ZAIDA"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "region": "ORIENTAL",
+        "villes": [
+            {
+                "id": 1,
+                "ville": "AHFIR"
+            },
+            {
+                "id": 2,
+                "ville": "AIN BNI MATHAR"
+            },
+            {
+                "id": 3,
+                "ville": "AIN ZOHRA"
+            },
+            {
+                "id": 4,
+                "ville": "AKLIM"
+            },
+            {
+                "id": 5,
+                "ville": "AL AAROUI"
+            },
+            {
+                "id": 6,
+                "ville": "AREKMANE"
+            },
+            {
+                "id": 7,
+                "ville": "BARKINE"
+            },
+            {
+                "id": 8,
+                "ville": "BEN TAIEB"
+            },
+            {
+                "id": 9,
+                "ville": "BERKANE"
+            },
+            {
+                "id": 10,
+                "ville": "BNI ANSAR"
+            },
+            {
+                "id": 11,
+                "ville": "BNI CHIKER"
+            },
+            {
+                "id": 12,
+                "ville": "BNI DRAR"
+            },
+            {
+                "id": 13,
+                "ville": "BNI TADJITE"
+            },
+            {
+                "id": 14,
+                "ville": "BOUANANE"
+            },
+            {
+                "id": 15,
+                "ville": "BOUARFA"
+            },
+            {
+                "id": 16,
+                "ville": "BOUDINAR"
+            },
+            {
+                "id": 17,
+                "ville": "DAR EL KEBDANI"
+            },
+            {
+                "id": 18,
+                "ville": "DEBDOU"
+            },
+            {
+                "id": 19,
+                "ville": "DRIOUCH"
+            },
+            {
+                "id": 20,
+                "ville": "EL AIOUN SIDI MELLOUK"
+            },
+            {
+                "id": 21,
+                "ville": "FIGUIG"
+            },
+            {
+                "id": 22,
+                "ville": "GUERCIF"
+            },
+            {
+                "id": 23,
+                "ville": "HASSI BERKANE"
+            },
+            {
+                "id": 24,
+                "ville": "HOUARA OULAD RAHO"
+            },
+            {
+                "id": 25,
+                "ville": "JERADA"
+            },
+            {
+                "id": 26,
+                "ville": "LAMRIJA"
+            },
+            {
+                "id": 27,
+                "ville": "MADAGH"
+            },
+            {
+                "id": 28,
+                "ville": "MAZGUITAM"
+            },
+            {
+                "id": 29,
+                "ville": "MIDAR"
+            },
+            {
+                "id": 30,
+                "ville": "NADOR"
+            },
+            {
+                "id": 31,
+                "ville": "OUJDA"
+            },
+            {
+                "id": 32,
+                "ville": "RAS EL MA"
+            },
+            {
+                "id": 33,
+                "ville": "SAIDIA"
+            },
+            {
+                "id": 34,
+                "ville": "SAKA"
+            },
+            {
+                "id": 35,
+                "ville": "SELOUANE"
+            },
+            {
+                "id": 36,
+                "ville": "SIDI YAHIA"
+            },
+            {
+                "id": 37,
+                "ville": "TAFERSIT"
+            },
+            {
+                "id": 38,
+                "ville": "TAFOUGHALT"
+            },
+            {
+                "id": 39,
+                "ville": "TALSINT"
+            },
+            {
+                "id": 40,
+                "ville": "TAOURIRT"
+            },
+            {
+                "id": 41,
+                "ville": "TEMSAMANE"
+            },
+            {
+                "id": 42,
+                "ville": "TENDRARA"
+            },
+            {
+                "id": 43,
+                "ville": "TOUISSIT"
+            },
+            {
+                "id": 44,
+                "ville": "ZAIO"
+            },
+            {
+                "id": 45,
+                "ville": "ZEGHANGHANE"
+            },
+            {
+                "id": 46,
+                "ville": "IAAZZANENE"
+            },
+            {
+                "id": 47,
+                "ville": "FARKHANA"
+            },
+            {
+                "id": 48,
+                "ville": "AZLAF"
+            },
+            {
+                "id": 49,
+                "ville": "BNI BOUIFROUR"
+            },
+            {
+                "id": 50,
+                "ville": "KASSITA"
+            },
+            {
+                "id": 51,
+                "ville": "TAZAGHINE"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "region": "RABAT-SALE-KENITRA",
+        "villes": [
+            {
+                "id": 1,
+                "ville": "AIN ATTIG"
+            },
+            {
+                "id": 2,
+                "ville": "AIN DFALI"
+            },
+            {
+                "id": 3,
+                "ville": "AIN EL AOUDA"
+            },
+            {
+                "id": 4,
+                "ville": "AIT YADINE"
+            },
+            {
+                "id": 5,
+                "ville": "ARBAOUA"
+            },
+            {
+                "id": 6,
+                "ville": "BRACHOUA"
+            },
+            {
+                "id": 7,
+                "ville": "DAR GUEDDARI"
+            },
+            {
+                "id": 8,
+                "ville": "EZZHILIGA"
+            },
+            {
+                "id": 9,
+                "ville": "HAD KOURT"
+            },
+            {
+                "id": 10,
+                "ville": "HARHOURA"
+            },
+            {
+                "id": 11,
+                "ville": "JORF EL MELHA"
+            },
+            {
+                "id": 12,
+                "ville": "KCEIBYA"
+            },
+            {
+                "id": 13,
+                "ville": "KENITRA"
+            },
+            {
+                "id": 14,
+                "ville": "KHEMISSET"
+            },
+            {
+                "id": 15,
+                "ville": "KHNICHET"
+            },
+            {
+                "id": 16,
+                "ville": "LALLA MIMOUNA"
+            },
+            {
+                "id": 17,
+                "ville": "MAAZIZ"
+            },
+            {
+                "id": 18,
+                "ville": "MECHRAA BEL KSIRI"
+            },
+            {
+                "id": 19,
+                "ville": "MOULAY BOUSSELHAM"
+            },
+            {
+                "id": 20,
+                "ville": "OULMES"
+            },
+            {
+                "id": 21,
+                "ville": "RABAT"
+            },
+            {
+                "id": 22,
+                "ville": "ROMMANI"
+            },
+            {
+                "id": 23,
+                "ville": "SALE"
+            },
+            {
+                "id": 24,
+                "ville": "SIDI ABDERRAZAK"
+            },
+            {
+                "id": 25,
+                "ville": "SIDI ALLAL EL BAHRAOUI"
+            },
+            {
+                "id": 26,
+                "ville": "SIDI ALLAL TAZI"
+            },
+            {
+                "id": 27,
+                "ville": "SIDI BOUKNADEL"
+            },
+            {
+                "id": 28,
+                "ville": "SIDI KACEM"
+            },
+            {
+                "id": 29,
+                "ville": "SIDI SLIMANE"
+            },
+            {
+                "id": 30,
+                "ville": "SIDI YAHYA EL GHARB"
+            },
+            {
+                "id": 31,
+                "ville": "SIDI YAHYA ZAER"
+            },
+            {
+                "id": 32,
+                "ville": "SKHIRATE"
+            },
+            {
+                "id": 33,
+                "ville": "SOUK EL ARBAA"
+            },
+            {
+                "id": 34,
+                "ville": "SOUK TLET EL GHARB"
+            },
+            {
+                "id": 35,
+                "ville": "TEMARA"
+            },
+            {
+                "id": 36,
+                "ville": "TIDDAS"
+            },
+            {
+                "id": 37,
+                "ville": "TIFLET"
+            },
+            {
+                "id": 38,
+                "ville": "TOUARGA"
+            },
+            {
+                "id": 39,
+                "ville": "TAMESNA"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "region": "CASABLANCA-SETTAT",
+        "villes": [
+            {
+                "id": 1,
+                "ville": "AIN HARROUDA"
+            },
+            {
+                "id": 2,
+                "ville": "AZEMMOUR"
+            },
+            {
+                "id": 3,
+                "ville": "BEN AHMED"
+            },
+            {
+                "id": 4,
+                "ville": "BENSLIMANE"
+            },
+            {
+                "id": 5,
+                "ville": "BERRECHID"
+            },
+            {
+                "id": 6,
+                "ville": "BNI HILAL"
+            },
+            {
+                "id": 7,
+                "ville": "BNI YAKHLEF"
+            },
+            {
+                "id": 8,
+                "ville": "BOUSKOURA"
+            },
+            {
+                "id": 9,
+                "ville": "BOUZNIKA"
+            },
+            {
+                "id": 10,
+                "ville": "CASABLANCA"
+            },
+            {
+                "id": 11,
+                "ville": "DAR BOUAZZA"
+            },
+            {
+                "id": 12,
+                "ville": "EL BOROUJ"
+            },
+            {
+                "id": 13,
+                "ville": "EL GARA"
+            },
+            {
+                "id": 14,
+                "ville": "EL JADIDA"
+            },
+            {
+                "id": 15,
+                "ville": "EL MANSOURIA"
+            },
+            {
+                "id": 16,
+                "ville": "FDALATE"
+            },
+            {
+                "id": 17,
+                "ville": "LAAOUNATE"
+            },
+            {
+                "id": 18,
+                "ville": "LBIR JDID"
+            },
+            {
+                "id": 19,
+                "ville": "LGHARBIA"
+            },
+            {
+                "id": 20,
+                "ville": "LOUALIDIA"
+            },
+            {
+                "id": 21,
+                "ville": "LOULAD"
+            },
+            {
+                "id": 22,
+                "ville": "MEDIOUNA"
+            },
+            {
+                "id": 23,
+                "ville": "MELLILA"
+            },
+            {
+                "id": 24,
+                "ville": "MOHAMMEDIA"
+            },
+            {
+                "id": 25,
+                "ville": "MOULAY ABDELLAH"
+            },
+            {
+                "id": 26,
+                "ville": "OULAD ABBOU"
+            },
+            {
+                "id": 27,
+                "ville": "OULAD AMRANE"
+            },
+            {
+                "id": 28,
+                "ville": "OULAD SAID"
+            },
+            {
+                "id": 29,
+                "ville": "OULED FREJ"
+            },
+            {
+                "id": 30,
+                "ville": "RAS EL AIN CHAOUIA"
+            },
+            {
+                "id": 31,
+                "ville": "SETTAT"
+            },
+            {
+                "id": 32,
+                "ville": "SIDI BENNOUR"
+            },
+            {
+                "id": 33,
+                "ville": "SIDI BETTACHE"
+            },
+            {
+                "id": 34,
+                "ville": "SIDI HAJJAJ"
+            },
+            {
+                "id": 35,
+                "ville": "SIDI MOUSSA BEN ALI"
+            },
+            {
+                "id": 36,
+                "ville": "SIDI RAHAL CHATAI"
+            },
+            {
+                "id": 37,
+                "ville": "SIDI SMAIL"
+            },
+            {
+                "id": 38,
+                "ville": "SOUALEM TRIFIYA"
+            },
+            {
+                "id": 39,
+                "ville": "TIT MELLIL"
+            },
+            {
+                "id": 40,
+                "ville": "ZEMAMRA"
+            },
+            {
+                "id": 41,
+                "ville": "NOUACEUR"
+            },
+            {
+                "id": 42,
+                "ville": "OULAD SALAH"
+            },
+            {
+                "id": 43,
+                "ville": "DEROUA"
+            },
+            {
+                "id": 44,
+                "ville": "HAD SOUALEM"
+            },
+            {
+                "id": 45,
+                "ville": "LAHRAOUYINE"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "region": "MARRAKECH-SAFI",
+        "villes": [
+            {
+                "id": 1,
+                "ville": "AIT DAOUD"
+            },
+            {
+                "id": 2,
+                "ville": "AIT OURIR"
+            },
+            {
+                "id": 3,
+                "ville": "AMIZMIZ"
+            },
+            {
+                "id": 4,
+                "ville": "ASNI"
+            },
+            {
+                "id": 5,
+                "ville": "BEN GUERIR"
+            },
+            {
+                "id": 6,
+                "ville": "BOUCHANE"
+            },
+            {
+                "id": 7,
+                "ville": "BOUGUEDRA"
+            },
+            {
+                "id": 8,
+                "ville": "CHICHAOUA"
+            },
+            {
+                "id": 9,
+                "ville": "ECHEMMAIA"
+            },
+            {
+                "id": 10,
+                "ville": "EL HANCHANE"
+            },
+            {
+                "id": 11,
+                "ville": "EL KELAA DES SRARHNA"
+            },
+            {
+                "id": 12,
+                "ville": "ESSAOUIRA"
+            },
+            {
+                "id": 13,
+                "ville": "GHMATE"
+            },
+            {
+                "id": 14,
+                "ville": "HAD DRA"
+            },
+            {
+                "id": 15,
+                "ville": "HRARA"
+            },
+            {
+                "id": 16,
+                "ville": "IMINTANOUTE"
+            },
+            {
+                "id": 17,
+                "ville": "JAMAAT SHAIM"
+            },
+            {
+                "id": 18,
+                "ville": "LAATTAOUIA"
+            },
+            {
+                "id": 19,
+                "ville": "LOUDAYA"
+            },
+            {
+                "id": 20,
+                "ville": "MARRAKECH"
+            },
+            {
+                "id": 21,
+                "ville": "OURIKA"
+            },
+            {
+                "id": 22,
+                "ville": "SAFI"
+            },
+            {
+                "id": 23,
+                "ville": "SEBT GZOULA"
+            },
+            {
+                "id": 24,
+                "ville": "SID L'MOKHTAR"
+            },
+            {
+                "id": 25,
+                "ville": "SIDI BOU OTHMANE"
+            },
+            {
+                "id": 26,
+                "ville": "SIDI BOUZID ARRAGRAGUI"
+            },
+            {
+                "id": 27,
+                "ville": "SIDI RAHHAL"
+            },
+            {
+                "id": 28,
+                "ville": "SKHOUR REHAMNA"
+            },
+            {
+                "id": 29,
+                "ville": "SMIMOU"
+            },
+            {
+                "id": 30,
+                "ville": "TAFETACHTE"
+            },
+            {
+                "id": 31,
+                "ville": "TAHANNAOUT"
+            },
+            {
+                "id": 32,
+                "ville": "TALAT N'YAAQOUB"
+            },
+            {
+                "id": 33,
+                "ville": "TALMEST"
+            },
+            {
+                "id": 34,
+                "ville": "TAMALLALT"
+            },
+            {
+                "id": 35,
+                "ville": "TAMANAR"
+            },
+            {
+                "id": 36,
+                "ville": "YOUSSOUFIA"
+            },
+            {
+                "id": 37,
+                "ville": "TAMANSOURT"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "region": "GUELMIM-OUED NOUN",
+        "villes": [
+            {
+                "id": 1,
+                "ville": "AIT ERKHA"
+            },
+            {
+                "id": 2,
+                "ville": "ASRIR"
+            },
+            {
+                "id": 3,
+                "ville": "ASSA"
+            },
+            {
+                "id": 4,
+                "ville": "BOUIZAKARNE"
+            },
+            {
+                "id": 5,
+                "ville": "GUELMIM"
+            },
+            {
+                "id": 6,
+                "ville": "IFRANE ATLAS SAGHIR"
+            },
+            {
+                "id": 7,
+                "ville": "LAKHSAS"
+            },
+            {
+                "id": 8,
+                "ville": "MESTI"
+            },
+            {
+                "id": 9,
+                "ville": "MIRLEFT"
+            },
+            {
+                "id": 10,
+                "ville": "SIDI IFNI"
+            },
+            {
+                "id": 11,
+                "ville": "TAGHJIJT"
+            },
+            {
+                "id": 12,
+                "ville": "TAN TAN"
+            },
+            {
+                "id": 13,
+                "ville": "TIGHIRT"
+            },
+            {
+                "id": 14,
+                "ville": "ZAG"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "region": "TANGER-TETOUAN-AL HOCEIMA",
+        "villes": [
+            {
+                "id": 1,
+                "ville": "AJDIR"
+            },
+            {
+                "id": 2,
+                "ville": "AL HOCEIMA"
+            },
+            {
+                "id": 3,
+                "ville": "ASSILAH"
+            },
+            {
+                "id": 4,
+                "ville": "BAB BERRED"
+            },
+            {
+                "id": 5,
+                "ville": "BAB TAZA"
+            },
+            {
+                "id": 6,
+                "ville": "BNI AHMED CHERQIA"
+            },
+            {
+                "id": 7,
+                "ville": "BNI AMMART"
+            },
+            {
+                "id": 8,
+                "ville": "BNI BOUAYACH"
+            },
+            {
+                "id": 9,
+                "ville": "BNI BOUFRAH"
+            },
+            {
+                "id": 10,
+                "ville": "BNI GARFETT"
+            },
+            {
+                "id": 11,
+                "ville": "BNI HADIFA"
+            },
+            {
+                "id": 12,
+                "ville": "CHEFCHAOUEN"
+            },
+            {
+                "id": 13,
+                "ville": "DAR BNI KARRICH"
+            },
+            {
+                "id": 14,
+                "ville": "DAR CHAOUI"
+            },
+            {
+                "id": 15,
+                "ville": "FNIDEQ"
+            },
+            {
+                "id": 16,
+                "ville": "GUEZNAIA"
+            },
+            {
+                "id": 17,
+                "ville": "HAD AL GHARBIA"
+            },
+            {
+                "id": 18,
+                "ville": "IMZOUREN"
+            },
+            {
+                "id": 19,
+                "ville": "ISSAGUEN"
+            },
+            {
+                "id": 20,
+                "ville": "JEBHA"
+            },
+            {
+                "id": 21,
+                "ville": "KSAR EL KEBIR"
+            },
+            {
+                "id": 22,
+                "ville": "KSAR SGHIR"
+            },
+            {
+                "id": 23,
+                "ville": "LAOUAMRA"
+            },
+            {
+                "id": 24,
+                "ville": "LARACHE"
+            },
+            {
+                "id": 25,
+                "ville": "MALLOUSSA"
+            },
+            {
+                "id": 26,
+                "ville": "MARTIL"
+            },
+            {
+                "id": 27,
+                "ville": "M'DIQ"
+            },
+            {
+                "id": 28,
+                "ville": "MOQRISSET"
+            },
+            {
+                "id": 29,
+                "ville": "OUED LAOU"
+            },
+            {
+                "id": 30,
+                "ville": "OUEZZANE"
+            },
+            {
+                "id": 31,
+                "ville": "SAHEL"
+            },
+            {
+                "id": 32,
+                "ville": "SIDI BOUSBER"
+            },
+            {
+                "id": 33,
+                "ville": "SIDI LYAMANI"
+            },
+            {
+                "id": 34,
+                "ville": "SIDI REDOUANE"
+            },
+            {
+                "id": 35,
+                "ville": "TANGER"
+            },
+            {
+                "id": 36,
+                "ville": "TARGUIST"
+            },
+            {
+                "id": 37,
+                "ville": "TATOFT"
+            },
+            {
+                "id": 38,
+                "ville": "TEROUAL"
+            },
+            {
+                "id": 39,
+                "ville": "TETOUAN"
+            },
+            {
+                "id": 40,
+                "ville": "ZOUMI"
+            },
+            {
+                "id": 41,
+                "ville": "AIN DORIJ"
+            },
+            {
+                "id": 42,
+                "ville": "SIDI BOUAFIF"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "region": "EDDAKHLA-OUED EDDAHAB",
+        "villes": [
+            {
+                "id": 1,
+                "ville": "AOUSSERD"
+            },
+            {
+                "id": 2,
+                "ville": "BIR GANDOUZ"
+            },
+            {
+                "id": 3,
+                "ville": "DAKHLA"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "region": "LAAYOUNE-SAKIA EL HAMRA",
+        "villes": [
+            {
+                "id": 1,
+                "ville": "BOUJDOUR"
+            },
+            {
+                "id": 2,
+                "ville": "ES-SEMARA"
+            },
+            {
+                "id": 3,
+                "ville": "LAAYOUNE"
+            },
+            {
+                "id": 4,
+                "ville": "TARFAYA"
+            },
+            {
+                "id": 5,
+                "ville": "EL MARSA"
+            }
+        ]
+    }
+]
